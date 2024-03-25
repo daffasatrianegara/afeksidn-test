@@ -8,7 +8,7 @@ const Footer = () => {
           <VStack>
             <HStack>
               <Box w={"20vh"} h={"20vh"}>
-                <Image src="../../public/afeksi.png" />
+                <Image src="/afeksi.png" />
               </Box>
               <VStack align={"left"} gap={0} fontSize={"lg"}>
                 <Text>JI. Gubeng Jaya IX no.1 Surabaya, Indonesia</Text>
@@ -21,11 +21,11 @@ const Footer = () => {
               hubungan berbasis psikologi relasi pertama di indonesia
             </Text>
             <HStack mr={"auto"} ml={"1em"} gap={3}>
-              <Image src="../../public/ig.png" alt="ig" w={"7vh"} h={"7vh"} />
-              <Image src="../../public/x.png" alt="x" w={"7vh"} h={"7vh"} />
-              <Image src="../../public/yt.png" alt="yt" w={"7vh"} h={"7vh"} />
-              <Image src="../../public/tt.png" alt="tt" w={"7vh"} h={"7vh"} />
-              <Image src="../../public/in.png" alt="in" w={"7vh"} h={"7vh"} />
+              <Image src="/ig.png" alt="ig" w={"7vh"} h={"7vh"} />
+              <Image src="/x.png" alt="x" w={"7vh"} h={"7vh"} />
+              <Image src="/yt.png" alt="yt" w={"7vh"} h={"7vh"} />
+              <Image src="/tt.png" alt="tt" w={"7vh"} h={"7vh"} />
+              <Image src="/in.png" alt="in" w={"7vh"} h={"7vh"} />
             </HStack>
           </VStack>
         </Box>
